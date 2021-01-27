@@ -1,0 +1,9 @@
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\bin\Debug\Aula9Pratico.exe.config
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\bin\Debug\Aula9Pratico.exe
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\bin\Debug\Aula9Pratico.pdb
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\obj\Debug\Aula9Pratico.csprojResolveAssemblyReference.cache
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\obj\Debug\Aula9Pratico.Form1.resources
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\obj\Debug\Aula9Pratico.Properties.Resources.resources
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\obj\Debug\Aula9Pratico.csproj.GenerateResource.Cache
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\obj\Debug\Aula9Pratico.exe
+c:\users\0030481911032\documents\visual studio 2013\Projects\Aula9Pratico\Aula9Pratico\obj\Debug\Aula9Pratico.pdb
