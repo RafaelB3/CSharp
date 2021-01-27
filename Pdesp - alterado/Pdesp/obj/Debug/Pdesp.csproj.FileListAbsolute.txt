@@ -1,0 +1,40 @@
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\bin\Debug\PDesp.exe.config
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\bin\Debug\PDesp.exe
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\bin\Debug\PDesp.pdb
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\obj\Debug\PDesp.csprojResolveAssemblyReference.cache
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\obj\Debug\PDesp.frmPDesp.resources
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\obj\Debug\PDesp.Properties.Resources.resources
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\obj\Debug\PDesp.csproj.GenerateResource.Cache
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\obj\Debug\PDesp.exe
+c:\users\0030481911042\documents\visual studio 2013\Projects\PDesp\PDesp\obj\Debug\PDesp.pdb
+Q:\LP2\Nova pasta\PDesp\PDesp\bin\Debug\PDesp.exe.config
+Q:\LP2\Nova pasta\PDesp\PDesp\obj\Debug\PDesp.exe
+Q:\LP2\Nova pasta\PDesp\PDesp\obj\Debug\PDesp.pdb
+Q:\LP2\Nova pasta\PDesp\PDesp\obj\Debug\PDesp.csprojResolveAssemblyReference.cache
+Q:\LP2\Nova pasta\PDesp\PDesp\obj\Debug\PDesp.frmPrincipal.resources
+Q:\LP2\Nova pasta\PDesp\PDesp\obj\Debug\PDesp.Properties.Resources.resources
+Q:\LP2\Nova pasta\PDesp\PDesp\obj\Debug\PDesp.csproj.GenerateResource.Cache
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\bin\Debug\PDesp.exe.config
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.exe
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.pdb
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.csprojResolveAssemblyReference.cache
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.frmPrincipal.resources
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.Properties.Resources.resources
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.csproj.GenerateResource.Cache
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\bin\Debug\PDesp.exe
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\bin\Debug\PDesp.pdb
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.frmMembro.resources
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.frmTipoDespesa.resources
+C:\Users\0030481911032\Documents\Visual Studio 2013\Projects\Pdesp\PDesp\obj\Debug\PDesp.frmDespesa.resources
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\bin\Debug\PDesp.exe.config
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\bin\Debug\PDesp.exe
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\bin\Debug\PDesp.pdb
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.frmPrincipal.resources
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.frmDespesa.resources
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.frmMembro.resources
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.frmTipoDespesa.resources
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.Properties.Resources.resources
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.csproj.GenerateResource.cache
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.exe
+C:\Users\Rafael\Documents\Pdesp - Copia\PDesp\obj\Debug\PDesp.pdb
