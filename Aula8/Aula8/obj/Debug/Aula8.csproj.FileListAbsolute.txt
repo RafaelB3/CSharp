@@ -1,0 +1,9 @@
+Q:\LP2\Aula8\Aula8\bin\Debug\Aula8.exe.config
+Q:\LP2\Aula8\Aula8\bin\Debug\Aula8.exe
+Q:\LP2\Aula8\Aula8\bin\Debug\Aula8.pdb
+Q:\LP2\Aula8\Aula8\obj\Debug\Aula8.csprojResolveAssemblyReference.cache
+Q:\LP2\Aula8\Aula8\obj\Debug\Aula8.Form1.resources
+Q:\LP2\Aula8\Aula8\obj\Debug\Aula8.Properties.Resources.resources
+Q:\LP2\Aula8\Aula8\obj\Debug\Aula8.csproj.GenerateResource.Cache
+Q:\LP2\Aula8\Aula8\obj\Debug\Aula8.exe
+Q:\LP2\Aula8\Aula8\obj\Debug\Aula8.pdb
